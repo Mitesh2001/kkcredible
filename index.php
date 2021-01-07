@@ -1,3 +1,3 @@
 <?php
 
-echo 'Project Created Successfully';
+echo 'Created Successfully';
